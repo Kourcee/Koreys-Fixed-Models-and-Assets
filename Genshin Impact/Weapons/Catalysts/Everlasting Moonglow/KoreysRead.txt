@@ -1,7 +1,0 @@
-☆ Unity Package Includes Pre-made Animation - PHYSBONES
-☆ included Textures involve
-----> Materials // Koreys Everlasting Moonglow > Textures > Materials
-----> Normal Maps // Koreys Everlasting Moonglow > Textures > Normals
-----> Masks // Koreys Everlasting Moonglow > Textures > Masks
-----> LightMaps // Koreys Everlasting Moonglow > Textures > LightMaps > Weapon 1/2
-☆ Previews for animation and FBX // Koreys Everlasting Moonglow > Previews
